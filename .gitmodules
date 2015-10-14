@@ -1,0 +1,6 @@
+[submodule "MADlibs"]
+	path = MADlibs
+	url = https://github.com/StarLord-15/MADlibs.git
+[submodule "electricDreams"]
+	path = electricDreams
+	url = https://github.com/StarLord-15/electricDreams.git
