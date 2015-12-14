@@ -5,3 +5,8 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+.img-responsive {
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+}
