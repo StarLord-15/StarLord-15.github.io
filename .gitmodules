@@ -13,3 +13,6 @@
 [submodule "lightbox"]
 	path = lightbox
 	url = https://github.com/StarLord-15/lightbox.git
+[submodule "timing"]
+	path = timing
+	url = https://github.com/StarLord-15/timing.git
